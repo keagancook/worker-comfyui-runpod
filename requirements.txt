@@ -2,3 +2,7 @@
 runpod~=1.7.12
 websocket-client
 requests
+opencv-python-headless
+moviepy
+ffmpeg-python
+boto3
