@@ -67,3 +67,9 @@ If the S3 environment variables (`BUCKET_ENDPOINT_URL`, `BUCKET_ACCESS_KEY_ID`, 
 ```
 
 The `data` field contains the presigned URL to the uploaded image file in your S3 bucket. The path usually includes the job ID.
+
+
+
+### Network Volume Setup
+- `/runpod-volume/custom_nodes/`: Custom node folders (e.g., ComfyUI-VideoHelperSuite/).
+- `/runpod-volume/models/`: Model subdirs (e.g., checkpoints/, vae/).
